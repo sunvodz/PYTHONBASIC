@@ -14,6 +14,7 @@ Ex10 : Function
 Ex11 : Loop
 Ex12 : Module
 Ex13 : Try , except
+Ex14 : File txt
 ```
 
 ##SunvoDz##
