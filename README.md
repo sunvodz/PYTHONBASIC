@@ -13,6 +13,7 @@ Ex9 : If Else
 Ex10 : Function
 Ex11 : Loop
 Ex12 : Module
+Ex13 : Try , except
 ```
 
 ##SunvoDz##
