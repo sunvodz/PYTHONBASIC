@@ -12,6 +12,7 @@ Ex8 : Input and cover type
 Ex9 : If Else
 Ex10 : Function
 Ex11 : Loop
+Ex12 : Module
 ```
 
 ##SunvoDz##
