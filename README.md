@@ -10,6 +10,7 @@ Ex6 : Sequence tuple , list , dict
 Ex7 : Use sequence list
 Ex8 : Input and cover type
 Ex9 : If Else
+Ex10 : Function
 ```
 
 ##SunvoDz##
