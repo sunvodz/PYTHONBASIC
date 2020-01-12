@@ -1,5 +1,7 @@
 a = 10
+
 #== , != , < , > , <= , >=
+
 if a < 20:
   print('yes')
 else:
@@ -14,6 +16,20 @@ else:
 #   print('Happy')
 # elif order[select] == 'lemon':
 #   print('Happy')
+
+#or
+# order = {'50':'beer','10':'water','20':'lemon'}
+
+# select =  input("Select Order : ")
+# if order[select] == 'beer' or order[select] == 'water' or order[select] == 'lemon':
+#   print('Happy')
+
+#and
+b = 10
+if a == 10 and b == 20:
+  print('Happy')
+else:
+  print("Sad")
   
   
 point = int(input("Enter your point : "))
