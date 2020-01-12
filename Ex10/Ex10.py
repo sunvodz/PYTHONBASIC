@@ -29,6 +29,7 @@ def main():
 
 def printMsg(massager):
   print(massager)
+  
 def sum_number(x,y):
   sum_number = x+y
   return sum_number
@@ -43,16 +44,6 @@ def check_number(x,y):
   return status
 
 main()
-if select =='1':
-  printMsg("Sunvodz")
-elif select =='2':
-  result = sum_number(12,3)
-  print(result)
-elif select =='3':
-  result_chack = check_number(12,3)
-  print(result_chack)
-else:
-  print("error")
   
 
 
