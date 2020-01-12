@@ -3,8 +3,8 @@ def main():
   global select
   print("====Menu====")
   print("1.print")
-  print("2.sum_number")
-  print("3.check_number")
+  print("2.sum")
+  print("3.check")
   select = input("Enter menu:")
   print("Select : "+select)
   
